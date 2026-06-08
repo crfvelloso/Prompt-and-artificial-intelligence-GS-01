@@ -19,4 +19,4 @@ O projeto foi desenvolvido para rodar integralmente na nuvem, sem necessidade de
 3. O modelo Llama será baixado e o painel exibirá os dados e a análise no terminal inferior.
 
 ## Vídeo de Demonstração
-[Assistir ao vídeo de demonstração](COLOQUE_O_LINK_DO_YOUTUBE_AQUI)
+[Assistir ao vídeo de demonstração](https://www.youtube.com/watch?v=EuddrDpD_9w)
