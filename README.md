@@ -9,12 +9,12 @@ Sistema de monitoramento inteligente para controle de uma missão espacial exper
 
 ## Demonstração
 
-![Dados da Missão Normal](assets/print_status_normal.png)
-![Alerta Crítico IA](assets/print_status_alerta.png)
+![Dados da Missão Normal](assets/print_estavel.png)
+![Alerta Crítico IA](assets/print_alerta_critico.png)
 
 ## Como Executar
 O projeto foi desenvolvido para rodar integralmente na nuvem, sem necessidade de instalação local.
-1. Abra o notebook no Google Colab: [Acessar Notebook](COLOQUE_SEU_LINK_DO_COLAB_AQUI)
+1. Abra o notebook no Google Colab: [Acessar Notebook](https://colab.research.google.com/drive/19ugNJWx8pIA1YMgGpsmxZn1ghtQO4CQt?usp=sharing)
 2. Vá em `Ambiente de Execução` > `Executar Tudo`.
 3. O modelo Llama será baixado e o painel exibirá os dados e a análise no terminal inferior.
 
